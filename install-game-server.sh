@@ -12,7 +12,7 @@ str_game_dir="/usr/local/game-server"
 game_x64_download_url=http://firmware.koolshare.cn/koolgame/latest/game-server
 game_x86_download_url=http://firmware.koolshare.cn/koolgame/latest/game-server-386
 program_init_download_url=https://raw.githubusercontent.com/clangcn/game-server/master/init/game-server.init
-str_install_shell=https://raw.githubusercontent.com/clangcn/game-server/master/install-game-server.sh
+str_install_shell=https://raw.githubusercontent.com/sky586hf/x/master/install-game-server.sh
 
 function fun_clang.cn(){
     echo ""
