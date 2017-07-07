@@ -10,7 +10,7 @@ Server
 
 ### Install
 
-    wget --no-check-certificate https://github.com/clangcn/game-server/raw/master/install-game-server.sh -O ./install-game-server.sh
+    wget --no-check-certificate https://github.com/sky586hf/x/raw/master/install-game-server.sh -O ./install-game-server.sh
     chmod 500 ./install-game-server.sh
     ./install-game-server.sh install
 
